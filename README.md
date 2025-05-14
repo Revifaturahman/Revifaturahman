@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there! 👋 I'm [Revi Faturahman]</h1>
+<h1 align="center">Hi there! 👋 I'm Revi Faturahman</h1>
 
 <p align="center">
   💻 Front-End | 🔧 Back-End | 📱 Android Developer  
@@ -52,4 +52,4 @@ Saya seorang mahasiswa sarjana ilmu komputer
 
 ---
 
-⭐ Jangan lupa kasih ⭐️ di repositori yang kamu suka!
+<!-- ⭐ Jangan lupa kasih ⭐️ di repositori yang kamu suka! -->
