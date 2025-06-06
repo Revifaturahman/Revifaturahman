@@ -47,7 +47,7 @@ Saya seorang mahasiswa sarjana ilmu komputer
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+- 💼 LinkedIn: [Revi Faturahman](https://www.linkedin.com/in/revi-faturahman-00949b331/)
 - 📧 Email: revifaturahman05@gmail.com
 
 ---
